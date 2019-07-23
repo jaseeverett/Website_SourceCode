@@ -5,7 +5,7 @@ publishDate: 2019-06-18T10:54:19.369754Z
 authors: ["Natasha Henschke", "Evgeny A Pakhomov", "Lian E Kwong", "Jason D Everett", "Leonardo Laiolo", "Amy R Coghlan", "Iain M Suthers"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Journal of Geophysical Research: Biogeosciences*"
 url_pdf: "https://doi.org/10.1029%2F2018jg004918"
 doi: "10.1029/2018jg004918"
